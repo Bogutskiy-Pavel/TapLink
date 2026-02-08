@@ -1,0 +1,6 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.000000" height="48.000000" fill="none" customFrame="#000000">
+	<g id="icon: gmail">
+		<path id="Icon-color" d="M44 12C44 9.79086 42.2091 8 40 8L8 8C5.79086 8 4 9.79086 4 12L4 36C4 38.2091 5.79086 40 8 40L40 40C42.2091 40 44 38.2091 44 36L44 12ZM34.2 12L24 20.16L13.8 12L34.2 12ZM38 36L10 36L10 16.64L22.42 26.64C22.7719 26.9223 23.2089 27.0774 23.66 27.08L24.36 27.08C24.8111 27.0774 25.2481 26.9223 25.6 26.64L38 16.64L38 36Z" fill="rgb(178,49,33)" fill-rule="nonzero" />
+		<path id="bounding_box:c2all" />
+	</g>
+</svg>

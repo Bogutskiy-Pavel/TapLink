@@ -63,3 +63,47 @@ body {
   line-height: 23px;
   color: #6a6a6a;
 }
+.card {
+  border-radius: 10px;
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  background: rgba(255, 255, 255, 1);
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding: 35px 18px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  max-width: 265px;
+  margin: auto;
+  gap: 10px;
+}
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 40px;
+  flex-shrink: 1;
+  width: 100%;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.button.mail {
+  background: rgba(67, 62, 62, 1);
+}
+.button.tg {
+  background: rgba(85, 194, 242, 1);
+}
+.button.yt {
+  background: rgba(178, 49, 33, 1);
+}
+.button.gh {
+  background: rgba(0, 0, 0, 1);
+}
